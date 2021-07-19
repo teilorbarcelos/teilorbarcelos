@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Teilor a brazilian passionate about programming. ###
+### Hi there 👋 I'm Teilor, a brazilian passionate about programming. ###
 
 <!-- - 🔭 I’m currently working on ... -->
 - 🌱 I’m currently learning NextJs while developing my own portfolio.
