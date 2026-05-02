@@ -81,7 +81,6 @@ I've developed an identical, production-ready backend architecture across three 
 ## 📊 GitHub Performance
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=teilorbarcelos&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=teilorbarcelos&theme=tokyonight" />
 </p>
 
