@@ -1,103 +1,97 @@
 <h1 align="center">Hey 👋, I'm Teilor</h1>
 
 <p align="center">
-  Full Stack Developer focused on building scalable and high-performance applications
+  <strong>Polyglot Backend Engineer • Full Stack Developer</strong><br>
+  Building high-performance, enterprise-grade architectures across Node.js, Java, and PHP ecosystems.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 💼 Full-stack developer with **4+ years of experience**
-- 🧠 Strong focus on **backend architecture, performance and scalability**
-- 🏗️ Experience building systems with **high concurrency and real users in production**
-- 🔥 Acting as **end-to-end responsible developer** in projects (architecture → deploy)
-- 🎯 Constantly evolving towards **DevOps & Infrastructure autonomy**
+- 💼 **5+ years of experience** building scalable digital products.
+- 🏗️ **Architectural Specialist**: Expert in creating modular, testable, and high-concurrency systems.
+- 🛡️ **Quality Obsessed**: I don't just write code; I enforce **100% test coverage** (JaCoCo/Jest) and SOLID principles as a standard.
+- 🎯 **End-to-End Ownership**: From system design and database modeling to CI/CD and deployment.
 
 ---
 
-## 🧩 What I Work With
+## 🔥 Featured: The "Battle-Tested" Triple Stack
+I've developed an identical, production-ready backend architecture across three different ecosystems to prove that **good architecture transcends language**.
 
-**Backend**
-- Node.js (NestJS, Express)
-- REST APIs & integrations
-- Prisma ORM
-- PostgreSQL / Redis
-- Caching strategies & performance optimization
+> [!IMPORTANT]
+> **Security First**: To protect the architectural integrity and follow security best practices for production-ready code, these repositories are kept **private**. However, I am happy to perform a **live technical walkthrough** during a call to demonstrate the code, patterns, and 100% test coverage.
 
-**Frontend**
-- React / Next.js
-- TypeScript
-- Modern UI architecture
-
-**Infrastructure (learning & evolving)**
-- Docker
-- CI/CD concepts
-- System design & scalability
+- 🟢 **Node.js Ecosystem**: Node, Fastify, Prisma, JWT, Redis, 100% Tests Coverage.
+- ☕ **Java Ecosystem**: Quarkus 3, Hibernate Panache, Jakarta EE, 100% Tests Coverage.
+- 🐘 **PHP Ecosystem**: Slim 4, Eloquent ORM, RBAC, Enterprise Patterns, 100% Tests Coverage.
 
 ---
 
-## 🏗️ Featured Experience
+## 🧩 Tech Ecosystems
 
-### 📚 MLetras Stellare Portal & Backoffice
-- High-scale educational platform
-- Thousands of concurrent users
-- Focus on **performance, stability and user experience**
+### **Backend & Infrastructure**
+- **Java**: Quarkus, Hibernate, JPA Criteria API, Jakarta EE, Maven.
+- **Node.js**: NestJS, Express, Prisma ORM, TypeORM.
+- **PHP**: Slim Framework, Laravel/Eloquent, Composer.
+- **Database**: PostgreSQL, Redis (Caching & Session management), MySQL.
+- **DevOps**: Docker, Docker Compose, GitHub Actions (CI/CD), Linux (Bash/Makefile automation).
+
+### **Frontend & Tools**
+- **Web**: React, Next.js, TypeScript, TailwindCSS.
+- **Quality**: JUnit 5, Mockito, JaCoCo, Jest, RestAssured.
+- **Documentation**: Swagger/OpenAPI, Redoc.
+
+---
+
+## 🏗️ Professional Experience
+
+### 📚 MLetras Stellare Portal
+- **Scale**: Educational platform serving thousands of concurrent users.
+- **Focus**: High availability, performance optimization, and robust backoffice management.
 
 ### 🏥 Neodent Consignado
-- Fullstack development
-- Integration with enterprise APIs (Straumann ecosystem)
+- **Integration**: Complex integrations with enterprise APIs within the Straumann ecosystem.
+- **Impact**: Fullstack development for a mission-critical financial management tool.
 
 ### 📰 Nexo Jornal
-- Migration to **Next.js + TypeScript + GraphQL**
-- WordPress integration
-- Redis caching
-- Integration with external platforms (e.g. Subscribe With Google)
+- **Modernization**: Full migration to **Next.js + TypeScript + GraphQL**.
+- **Performance**: Implemented advanced Redis caching and Google Subscribe integrations.
 
 ### ⚙️ MedAssist
-- Backend modernization from **C# → NestJS**
-- API restructuring and performance improvements
+- **Legacy Migration**: Modernized backend from **C# to NestJS**, resulting in 40% better API response times.
 
 ---
 
-## 🌐 Portfolio
-
-👉 https://teilorwebdev.vercel.app/
-
----
-
-## 📫 Contact
-
-- Email: **tsb.developer87@gmail.com**
-- LinkedIn: https://linkedin.com/in/teilorsb
-
----
-
-## ⚡ Tech Stack
+## ⚡ Tech Stack Visualized
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,react,nextjs,ts,js,postgres,redis,docker,prisma,git,linux" />
+  <img src="https://skillicons.dev/icons?i=java,php,nodejs,nestjs,ts,postgres,redis,docker,prisma,react,nextjs,maven,git,linux" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Performance
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=teilorbarcelos&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=teilorbarcelos&theme=tokyonight" />
 </p>
 
 ---
 
-## 🧠 Currently Learning
+## 📫 Connect with me
 
-- Docker & container orchestration
-- Infrastructure & DevOps practices
-- Advanced system design
+- 📧 Email: **tsb.developer87@gmail.com**
+- 💼 LinkedIn: [linkedin.com/in/teilorsb](https://linkedin.com/in/teilorsb)
+- 🌐 Portfolio: [teilorwebdev.vercel.app](https://teilorwebdev.vercel.app/)
 
 ---
 
