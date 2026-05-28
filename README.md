@@ -1,8 +1,8 @@
-<h1 align="center">Hey 👋, I'm Teilor</h1>
+<h1 align="center">Olá 👋, Eu sou o Teilor</h1>
 
 <p align="center">
-  <strong>Polyglot Backend Engineer • Full Stack Developer</strong><br>
-  Building high-performance, enterprise-grade architectures across Node.js, Python, Java, and PHP ecosystems.
+  <strong>Engenheiro de Software Sênior • Desenvolvedor Full Stack</strong><br>
+  Construindo arquiteturas de alta performance e sistemas de nível Enterprise.
 </p>
 
 <p align="center">
@@ -10,93 +10,96 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 🚀 Sobre Mim
 
-- 💼 **5+ years of experience** building scalable digital products.
-- 🏗️ **Architectural Specialist**: Expert in creating modular, testable, and high-concurrency systems.
-- 🛡️ **Quality Obsessed**: I don't just write code; I enforce **100% test coverage** (JaCoCo/Pytest/Jest) and SOLID principles as a standard.
-- 🎯 **End-to-End Ownership**: From system design and database modeling to CI/CD and deployment.
-
----
-
-## 🔥 Featured: The "Battle-Tested" Quad Stack
-I've developed an identical, production-ready backend architecture across four different ecosystems to prove that **good architecture transcends language**.
-
-> [!IMPORTANT]
-> **Security First**: To protect the architectural integrity and follow security best practices for production-ready code, these repositories are kept **private**. However, I am happy to perform a **live technical walkthrough** during a call to demonstrate the code, patterns, and 100% test coverage.
-
-- 🟢 **Node.js Ecosystem**: Node, Fastify, Prisma, JWT, Redis, 100% Tests Coverage.
-- 🐍 **Python Ecosystem**: FastAPI, SQLAlchemy, Pydantic, PostgreSQL, 100% Tests Coverage.
-- ☕ **Java Ecosystem**: Quarkus 3, Hibernate Panache, Jakarta EE, 100% Tests Coverage.
-- 🐘 **PHP Ecosystem**: Slim 4, Eloquent ORM, RBAC, Enterprise Patterns, 100% Tests Coverage.
+- 💼 **Mais de 5 anos de experiência** construindo produtos digitais escaláveis e de missão crítica.
+- 🏗️ **Especialista em Arquitetura**: Foco na criação de sistemas modulares, testáveis e de alta concorrência utilizando Clean Architecture, SOLID e Design Patterns.
+- 🛡️ **Obsessão por Qualidade**: Práticas rigorosas de engenharia com exigência de **100% de cobertura de testes** e pipelines de CI/CD robustos (integrados ao SonarQube).
+- 🧠 **Evolução Contínua**: Como um desenvolvedor sênior, acredito que o aprendizado nunca para. Utilizo o desenvolvimento de projetos pessoais complexos como um verdadeiro laboratório para refinar minhas habilidades de arquitetura de software e, mais recentemente, integrando ferramentas de Inteligência Artificial para alavancar a produtividade e a qualidade do código.
 
 ---
 
-## 🧩 Tech Ecosystems
+## 🏗️ Experiência Profissional
 
-### **Backend & Infrastructure**
-- **Node.js**: NestJS, Express, Prisma ORM, TypeORM.
-- **Python**: FastAPI, Django, SQLAlchemy, Pytest.
-- **Java**: Quarkus, Hibernate, JPA Criteria API, Jakarta EE, Maven.
-- **PHP**: Slim Framework, Laravel/Eloquent, Composer.
-- **Database**: PostgreSQL, Redis (Caching & Session management), MySQL.
-- **DevOps**: Docker, Docker Compose, GitHub Actions (CI/CD), Linux (Bash/Makefile automation).
+Tenho atuado em projetos de grande escala e alta complexidade, focando sempre em entregar valor real para o negócio através de soluções técnicas de excelência:
 
-### **Frontend & Tools**
-- **Web**: React, Next.js, TypeScript, TailwindCSS.
-- **Quality**: JUnit 5, Pytest, Mockito, JaCoCo, Jest, RestAssured.
-- **Documentation**: Swagger/OpenAPI, Redoc.
-
----
-
-## 🏗️ Professional Experience
-
-### 📚 MLetras Stellare Portal
-- **Scale**: Educational platform serving thousands of concurrent users.
-- **Focus**: High availability, performance optimization, and robust backoffice management.
+### 📚 Portal MLetras Stellare
+- **Escala**: Plataforma educacional projetada para suportar milhares de usuários simultâneos.
+- **Foco**: Alta disponibilidade, otimização extrema de performance e construção de um painel de gerenciamento (backoffice) sólido e seguro.
 
 ### 🏥 Neodent Consignado
-- **Integration**: Complex integrations with enterprise APIs within the Straumann ecosystem.
-- **Impact**: Fullstack development for a mission-critical financial management tool.
+- **Integração**: Desenvolvimento de integrações complexas com APIs corporativas dentro do vasto ecossistema Straumann.
+- **Impacto**: Atuação Full Stack na evolução de uma ferramenta de gestão financeira de missão crítica para a operação.
 
 ### 📰 Nexo Jornal
-- **Modernization**: Full migration to **Next.js + TypeScript + GraphQL**.
-- **Performance**: Implemented advanced Redis caching and Google Subscribe integrations.
+- **Modernização**: Liderança técnica na migração completa da plataforma para **Next.js + TypeScript + GraphQL**.
+- **Performance**: Implementação de estratégias avançadas de cache com Redis e integração fluida com o Google Subscribe.
 
 ### ⚙️ MedAssist
-- **Legacy Migration**: Modernized backend from **C# to NestJS**, resulting in 40% better API response times.
+- **Migração de Sistemas Legados**: Modernização da arquitetura backend, migrando de **C# para NestJS**, o que resultou em uma impressionante melhoria de 40% no tempo de resposta das APIs.
 
 ---
 
-## ⚡ Tech Stack Visualized
+## 🔬 Laboratório Pessoal & Padrões de Arquitetura
+
+Para me manter na vanguarda da engenharia de software e explorar todo o potencial da inteligência artificial no ciclo de desenvolvimento, construí e mantenho um ecossistema de projetos de nível de produção. Eles provam na prática que **uma boa arquitetura transcende a linguagem de programação**.
+
+### 🛠️ Plataforma Interna de Desenvolvedor (IDP)
+- [**Infra-Project**](https://github.com/teilorbarcelos/infra-project): Uma infraestrutura de desenvolvimento centralizada, leve e rodando em containers (Gitea, SonarQube, Portainer, PostgreSQL). Inclui Act Runners para execução de pipelines de CI/CD automatizados, garantindo qualidade de código via análise estática e viabilizando deploys em múltiplos ambientes.
+
+### ⚡ Backends: O "7-Stack" Enterprise
+Desenvolvi uma arquitetura de backend padronizada, modular e extremamente funcional em **7 ecossistemas diferentes**. Todos implementam Clean Architecture, RBAC, Rate Limiting, validação estrita e exigem **100% de cobertura de testes**:
+- 🟢 **Node.js**: [backend-node](https://github.com/teilorbarcelos/backend-node)
+- 🐹 **Go**: [backend-go](https://github.com/teilorbarcelos/backend-go)
+- 🦀 **Rust**: [backend-rust](https://github.com/teilorbarcelos/backend-rust)
+- ☕ **Java**: [backend-java-quarkus](https://github.com/teilorbarcelos/backend-java-quarkus) (Quarkus 3)
+- 🐍 **Python**: [backend-python](https://github.com/teilorbarcelos/backend-python)
+- 🟣 **C#**: [backend-c-sharp](https://github.com/teilorbarcelos/backend-c-sharp)
+- 🐘 **PHP**: [backend-php-slim](https://github.com/teilorbarcelos/backend-php-slim)
+
+### 🎨 Frontends Modernos
+Aplicações frontend implementando as melhores práticas de componentização, tipagem e consumo de APIs:
+- ⚛️ **React (Vite)**: [frontend-vite](https://github.com/teilorbarcelos/frontend-vite)
+- 🅰️ **Angular**: [frontend-angular](https://github.com/teilorbarcelos/frontend-angular)
+- 💚 **Vue 3 (Vite)**: [frontend-vite-vue-3](https://github.com/teilorbarcelos/frontend-vite-vue-3)
+
+### 📦 Ferramentas Open Source (NPM)
+Desenvolvi ferramentas de CLI e bibliotecas focadas em acelerar a produtividade no ecossistema web:
+- 🪄 [**mage-cli**](https://www.npmjs.com/package/mage-cli): Um gerenciador de boilerplates Full-Stack que elimina a fadiga de configuração, permitindo instanciar novas arquiteturas prontas em segundos. ([Repositório](https://github.com/teilorbarcelos/mage-cli))
+- 📸 [**mage-react-cam**](https://www.npmjs.com/package/mage-react-cam): Biblioteca React leve e customizável para controle da câmera do dispositivo. ([Repositório](https://github.com/teilorbarcelos/mage-react-cam))
+- 🗄️ [**mage-select-data-engine**](https://www.npmjs.com/package/mage-select-data-engine): Uma engine de dados agnóstica para potencializar componentes de seleção complexos. ([Repositório](https://github.com/teilorbarcelos/mage-select-data-engine-workspace))
+
+---
+
+## ⚡ Tecnologias & Ecossistema
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,php,nodejs,nestjs,ts,postgres,redis,docker,prisma,react,nextjs,maven,git,linux" />
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,python,java,go,rust,cs,php,react,angular,vue,postgres,redis,docker,prisma,nestjs,nextjs,maven,git,linux" />
 </p>
 
 ---
 
-## 📊 GitHub Performance
+## 📊 Atividade no GitHub
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=teilorbarcelos&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=teilorbarcelos&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 📫 Connect with me
+## 📫 Contato
 
 - 📧 Email: **tsb.developer87@gmail.com**
 - 💼 LinkedIn: [linkedin.com/in/teilorsb](https://linkedin.com/in/teilorsb)
-- 🌐 Portfolio: [teilorwebdev.vercel.app](https://teilorwebdev.vercel.app/)
+- 🌐 Portfólio: [teilorwebdev.vercel.app](https://teilorwebdev.vercel.app/)
+- 📦 NPM: [npmjs.com/~teilorbarcelos](https://www.npmjs.com/~teilorbarcelos)
 
 ---
-
-## 🎮 Fun Fact
-
-I've traveled to other planets with Commander Shepard and Jebediah Kerman 🚀
