@@ -1,26 +1,26 @@
 <h1 align="center">Olá 👋, Eu sou o Teilor</h1>
 
 <p align="center">
-  <strong>Engenheiro de Software Full Stack • Especialista em IA Aplicada & Arquitetura</strong><br>
-  Transformando requisitos complexos em sistemas enterprise escaláveis, performáticos e seguros.
+  <strong>Engenheiro de Software Full Stack especializado em React, Node.js e TypeScript</strong><br>
+  <strong>Pós-graduando em Inteligência Artificial Aplicada</strong><br>
+  Construindo sistemas escaláveis com arquitetura robusta, containers (Docker) e integração de IA, aliando especialidade a uma alta capacidade de adaptação a novas tecnologias.
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://shields.io" />
 </p>
 
 ---
 
 ## 🚀 Sobre Mim
 
-- 💼 **Engenharia de Resultados:** 5+ anos de experiência liderando o desenvolvimento de produtos digitais escaláveis, migração de sistemas legados e integrações de missão crítica.
-- 🧠 **Especialista em IA para Devs:** Pós-graduado em Inteligência Artificial aplicada ao desenvolvimento. Especialista em otimização de performance de engenharia, integração de LLMs e automação inteligente de processos.
-- 🏗️ **Foco em Arquitetura & Qualidade:** Sólidos conhecimentos em Clean Architecture, SOLID, Design Patterns e microserviços. Defensor de práticas rigorosas com **100% de cobertura de testes** e pipelines de CI/CD automatizados (SonarQube).
+- 💼 **Especialista Front & Back-End:** 5+ anos de experiência liderando o desenvolvimento de produtos digitais com **React**, **Node.js** e **TypeScript**, focando em aplicações enterprise e migração de sistemas legados.
+- 🧠 **Inteligência Artificial (Pós-graduação em andamento):** Aplicando IA ao desenvolvimento de software, com ênfase na integração de LLMs, automação inteligente de processos e evolução de performance na engenharia.
+- 🏗️ **Arquitetura, DevOps & Versatilidade Polyglot:** Domínio de Clean Architecture, containers (**Docker**) e microserviços. Especialista nas stacks principais, mas com grande facilidade para adotar e entregar valor com múltiplas linguagens (Python, Go, Java, C#), mantendo sempre **100% de cobertura de testes** e CI/CD.
 
 ---
 
